@@ -1,5 +1,4 @@
 # eslint-config by epictnr
-======
 
 Base set of rules for all framework components based on the JavaScript
 
@@ -31,7 +30,7 @@ Add .eslintrc.json into your root directory
 And then add command to your package.json
 
 ```bash
-  "scripts": {
-    "lint:js": "eslint ./app --color"
-  }
+"scripts": {
+  "lint:js": "eslint ./app --color"
+}
 ```
